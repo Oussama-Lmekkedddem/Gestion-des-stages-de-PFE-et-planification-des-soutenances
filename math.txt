@@ -1,0 +1,9 @@
+s1236	math	soufyan	amrabat	0	5
+n12346	math	nourdine	amrrabt	0	5
+sl12345	math	salim	amlah	0	6
+r4569	math	romain	saiss	0	5
+no1234	math	noussair	mazraoui	0	5
+yah123	math	yahya	aitiyatallah	0	6
+c234	math	nabul	bada	0	2
+ay1234	math	ayoub	ouaknnou	0	4
+123456987	math	hai	omar	0	65

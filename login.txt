@@ -1,0 +1,8 @@
+n123	123	nada	laghmam	0
+s123	123	salma	hammouchi	0
+a123	147	said	said2	0
+l123	145	loubna	elhassani	0
+z123	156	zineb	mahmoudi	0
+i123	123	intissar	maaziz	0
+yay123	12345678	yassine	hammouchi	0
+a147	147	amine	lmk	0
