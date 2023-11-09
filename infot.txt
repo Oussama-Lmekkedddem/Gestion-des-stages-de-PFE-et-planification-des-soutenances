@@ -15,4 +15,3 @@ a234	info	badia	badi	4	3
 z12345	info	houssam	nabil	4	5
 imou12	info	yasmine	imouga	0	4
 ay1234	math	ayoub	ouaknnou	4	4
-123456987	math	hai	omar	0	65
